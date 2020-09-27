@@ -2,5 +2,5 @@
 
 label: Proficiency
 id : CS/EE
-aspects: Motivation, C/C++, Python, Matlab, Golang, HTML/CSS, JavaScript, MySQL
-percentage: 90, 90, 89, 85, 75, 65, 65, 65
+aspects: Motivation, C/C++, Python, Matlab, Golang, HTML/CSS, JavaScript/Java
+percentage: 90, 90, 89, 85, 75, 65, 65
