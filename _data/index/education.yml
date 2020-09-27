@@ -1,7 +1,11 @@
-- name: Vellore Institute of Technology
-  link: https://vit.ac.in/
-  date: 2016 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
-  descr: <br> (expected graduation in 2020)
+- name: Shanghai Jiao Tong University
+  link: https://www.sjtu.edu.cn
+  date: 2018 - <i class="fa fa-clock-o" aria-hidden="true" title="Until Now"></i>
+  descr: <br> (Master student)
+- name: Nanjing University of Aeronautics and Astronautics 
+  link: http://www.nuaa.edu.cn/main.htm
+  date: 2014 - 2018
+  descr: <br> (undergraduate)
 
 
 #- name: Harvard
