@@ -1,5 +1,5 @@
 # mlv
-This is my personal blog for recording studying VVC and algorithm💪🏿💪🏿💪🏿!!!
+This is my personal [blog](https://mluthervandross.github.io/mlv/) for recording studying VVC and algorithm💪🏿💪🏿💪🏿!!!
 
 ***DISCLAIMER***  
 This is now just based on [BLOGARITHMS](https://github.com/blogarithms/blogarithms.github.io).  
